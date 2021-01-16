@@ -1,9 +1,11 @@
+# brew update && brew install gcc (this includes gfortran)
 streamlit==0.68.1
 pandas==0.25.3
 base58==2.0.0
+seaborn==0.9.0
 matplotlib==3.1.3
 numpy==1.18.1
 sklearn==0.0
-# brew update && brew install gcc (this includes gfortran)
+
 
 
